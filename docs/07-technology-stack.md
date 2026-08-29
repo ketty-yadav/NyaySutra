@@ -1,31 +1,45 @@
 # Technology Stack
 
-## Frontend
-React / Next.js  
-Tailwind CSS
+**Frontend**
+- Next.js (React)
+- React Native
+- Tailwind CSS
 
-## Backend
-Node.js  
-Express.js  
-REST APIs
+**Backend**
+- Python
+- FastAPI
+- REST API
 
-## Database
-MongoDB / Supabase
+**Database**
+- PostgreSQL
+- Redis
 
-## AI & NLP
-Python  
-Natural Language Processing  
-LLM APIs
+**Legal Intelligence**
+- LLM
+- NLP
+- RAG (Retrieval-Augmented Generation)
+- Semantic Search
+- Vector Database
 
-## Authentication & Security
-OTP Authentication  
-Role-Based Access Control  
-Encryption
+**Document Processing**
+- OCR
+- PDF Parsing
 
-## Storage
-Secure Cloud Storage
+**Search**
+- Elasticsearch
 
-## Development Tools
-Git  
-GitHub  
-VS Code
+**Security**
+- JWT
+- OTP
+- Role-Based Access Control (RBAC)
+- Encryption
+- Audit Logs
+
+**Voice**
+- Speech-to-Text
+- Text-to-Speech
+
+**Cloud & Deployment**
+- AWS / GCP
+- Docker
+- GitHub
