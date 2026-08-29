@@ -1,25 +1,30 @@
-# Research & Validation
+## Research & Validation
 
-NyaySutra is built around areas of legal technology that are actively being researched and implemented.
+NyaySutra's design is grounded in existing research and real government data — 
+not just built as a concept.
 
-## Legal Document Intelligence
-Recent research has explored LLM-based summarization and processing of Indian court documents, supporting the feasibility of automated legal document understanding.
+### Legal-Tech & Judicial Research
+Recent academic research supports the core AI capabilities NyaySutra is built on:
+- LLM-based legal document summarization and understanding — [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1877050926017473)
+- Semantic retrieval and analysis of legal case data — [Springer](https://link.springer.com/article/10.1186/s40537-025-01340-1)
+- NLP/ML approaches for structured legal information extraction — [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0166361525000168)
 
-## Legal Case Retrieval
-Recent research has investigated semantic and intelligent retrieval of relevant legal cases and precedents from large legal datasets.
+### Government Data & Judicial Technology
+NyaySutra's Court Delay Prediction and case tracking features are grounded in 
+publicly available judicial data:
+- National Judicial Data Grid (NJDG) — pending case statistics — [njdg.ecourts.gov.in](https://njdg.ecourts.gov.in/njdg_v3/)
+- Supreme Court of India — official reports — [sci.gov.in/reports](https://www.sci.gov.in/reports/)
+- India's ongoing eCourts initiative already integrates AI, OCR, and NLP for 
+  judicial processes, validating the technical direction NyaySutra builds on.
 
-## Court Delay Prediction
-Machine learning research using large Indian court datasets has demonstrated the feasibility of analysing case duration and delay patterns.
+### Existing Platforms Studied
+NyaySutra's feature gaps were identified by studying current platforms:
+[eCourts](https://services.ecourts.gov.in/ecourtindia_v6/) · 
+[Indian Kanoon](https://indiankanoon.org) · 
+[SCC Online](https://www.scconline.com/) · 
+[LawRato](https://lawrato.com/)
 
-## Contract Risk Analysis
-NLP and machine learning approaches have been researched for identifying and classifying risks within contractual clauses.
-
-## Property & Legal Information Retrieval
-Recent research has explored structured retrieval and analysis of Indian legal and property-related information.
-
-## Judicial Technology
-India's ongoing eCourts development includes technologies such as AI, machine learning, OCR and NLP for improving judicial processes and access to information.
-
-## Human Oversight
-
-NyaySutra is designed as an assistance platform. AI-generated outputs are intended to support understanding and research, while final legal advice, interpretation and decisions remain with qualified legal professionals.
+### Human Oversight
+NyaySutra is designed as an assistance platform. AI-generated outputs are 
+intended to support understanding and research, while final legal advice, 
+interpretation, and decisions remain with qualified legal professionals.
