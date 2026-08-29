@@ -6,7 +6,7 @@ A multidisciplinary team leveraging technology to democratize legal processes an
 
 ### Team Members
 
-- Ketty Yadav { Team Leader }
-- Vaibhav Sharma 
-- Arpit Raj 
-- Khushi Verma
+- **Ketty Yadav** - Team Lead
+- **Vaibhav Sharma** 
+- **Arpit Raj** 
+- **Khushi Verma**
