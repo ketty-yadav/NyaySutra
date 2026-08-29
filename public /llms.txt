@@ -1,0 +1,22 @@
+# NyaySutra: AI-Powered Legal Intelligence Platform
+
+## About NyaySutra
+NyaySutra is an AI-powered legal intelligence platform designed to bridge the justice gap in India. It empowers citizens to understand complex legal documents, enables lawyers to build stronger cases through rapid analysis, and assists judges with docket management and precedent recommendations.
+
+## Core Features
+1. **Case Summarization**: Distills lengthy legal judgments into actionable, one-page summaries.
+2. **Contract Risk Analysis**: Scans legal notices and agreements to identify hidden liabilities and asymmetric clauses.
+3. **Case Delay Prediction**: Forecasts the timeline of legal disputes based on historical court data and judge loads.
+4. **Role-Based Dashboards**: Provides customized views for Citizens (case status, simplified language), Lawyers (cause lists, risk alerts), and Judges (docket analytics, precedent suggestions).
+
+## Target Audience
+- Citizens seeking to understand their legal rights and case status without jargon.
+- Lawyers requiring rapid document review, risk assessment, and case preparation.
+- Judges needing intelligent docket management and relevant case law suggestions.
+
+## Technology Stack
+- **Large Language Models (LLMs)** for text summarization and extraction.
+- **Semantic Search** for precedent retrieval.
+- **Predictive Analytics** for delay forecasting.
+
+*Note: This platform is currently a simulated demonstration.*
