@@ -2,7 +2,7 @@
 
 ## NyaySutra
 
-A multidisciplinary team leveraging technology to democratize legal processes and deliver intelligent case management.
+A tech-focused team leveraging technology to democratize legal processes and deliver intelligent case management.
 
 ### Team Members
 
